@@ -90,6 +90,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Virtual Env stuff
+si/
+
+# VS Code stuff
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject
